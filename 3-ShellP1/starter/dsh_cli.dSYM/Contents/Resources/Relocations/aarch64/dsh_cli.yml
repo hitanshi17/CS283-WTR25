@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/hitanshichhabria/Desktop/CS-283/SysProg-Class/assignments/3-ShellP1/starter/dsh_cli'
+relocations:     []
+...
