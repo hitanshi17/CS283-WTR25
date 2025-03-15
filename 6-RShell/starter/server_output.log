@@ -1,0 +1,9 @@
+./dsh: option requires an argument -- p
+Usage: ./dsh [-c | -s] [-i IP] [-p PORT] [-x] [-h]
+  Default is to run ./dsh in local mode
+  -c            Run as client
+  -s            Run as server
+  -i IP         Set IP/Interface address (only valid with -c or -s)
+  -p PORT       Set port number (only valid with -c or -s)
+  -x            Enable threaded mode (only valid with -s)
+  -h            Show this help message
